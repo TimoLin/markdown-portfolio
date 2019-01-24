@@ -1,1 +1,1 @@
-![Image of Lord Falon](./harlots-lord-fallon.jpg)
+![Image of Lord Falon](harlots-lord-fallon.jpg)
